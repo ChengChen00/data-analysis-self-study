@@ -1,10 +1,16 @@
 # data-analysis-self-study
 
+## 统计学
+
+基础
+
 ## Excel
 
 基础
 
 1.戴师兄
+
+2.B站 1小时常用函数速览
 
 进阶
 
@@ -44,11 +50,22 @@
 
 2.嵩天 python mooc
 
+进阶
+
+1.《利用Python进行数据分析》
+
+实战
+
+1.leetcode、牛客网
 
 ## 可视化软件
 
-基础即可（PowerBI or tableua）
+基础即可（PowerBI or tableau）
 
-##业务
+## 业务
+
+1.《深入浅出数据分析》
+
+2.《精益数据分析》《增长黑客》
 
 1.人人都是产品经理-接地气的陈老师
