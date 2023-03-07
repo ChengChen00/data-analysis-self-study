@@ -4,7 +4,10 @@
 
 基础；
 
-1.[SQL 3小时快速入门](https://www.bilibili.com/video/BV1PT4y1e7UU/?spm_id_from=333.337.search-card.all.click&vd_source=246cf56f9d799f927c4e5843c2883204)
+- [x] 1.[SQL 3小时快速入门](https://www.bilibili.com/video/BV1PT4y1e7UU/?spm_id_from=333.337.search-card.all.click&vd_source=246cf56f9d799f927c4e5843c2883204)
+```
+2023/03/07 讲得很精炼
+```
 
 2.[SQL最快上手](https://gf8azp2ryu.feishu.cn/docx/doxcncm0wcpX6ROOFRdvsT1x24F)
 
