@@ -4,6 +4,10 @@
 
 基础
 
+1.《深入浅出统计学》
+
+2.《商务与经济统计学》
+
 ## Excel
 
 基础
@@ -48,7 +52,7 @@
 
 1.戴师兄-Python部分
 
-2.嵩天 python mooc
+2.嵩天 python mooc ——基础和数据可视化
 
 进阶
 
@@ -61,6 +65,11 @@
 ## 可视化软件
 
 基础即可（PowerBI or tableau）
+
+PowerBI：孙兴华
+
+tableau：戴师兄/未明学院
+
 
 ## 业务
 
