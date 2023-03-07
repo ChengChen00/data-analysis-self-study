@@ -4,6 +4,11 @@
 
 基础
 
+1.戴师兄
+
+进阶
+
+1.王佩丰教程
 
 
 ## SQL
@@ -30,3 +35,20 @@
 1.[戴师兄-SQL部分](https://www.bilibili.com/video/BV1ZM4y1u7uF?p=4&vd_source=246cf56f9d799f927c4e5843c2883204)
 
 2.sqlzoo、牛客网、leetcode刷题
+
+## Python
+
+基础
+
+1.戴师兄-Python部分
+
+2.嵩天 python mooc
+
+
+## 可视化软件
+
+基础即可（PowerBI or tableua）
+
+##业务
+
+1.人人都是产品经理-接地气的陈老师
